@@ -5,3 +5,17 @@ Luckily for you, I have just the solution!
 One command. yup one command is all you need to get started with my script!
 
 In fact, let's go over it now..
+
+
+#### Here's that one command:
+
+``````
+cd; curl -LO https://raw.githubusercontent.com/strangetheproot/bluetooth-arch/main/Main.sh && sudo bash Main.sh
+``````
+
+Yup, it's that easy. Just copy and paste into your terminal.
+
+Script by Strange.
+
+<img src=https://raw.githubusercontent.com/strangetheproot/bluetooth-arch/main/image/IMG_8834.jpeg width=240 height=240>
+
